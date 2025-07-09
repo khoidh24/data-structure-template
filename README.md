@@ -9,7 +9,8 @@
 7. 📚 Mention what algorithm and what technique is being used (e.g. Greedy, Sliding Window, Hashing...)  
 8. 💡 Suggest possible variations or follow-up challenges to deepen understanding
 
-# Question: Paste your question here.
+# Question:
+Paste your question here.
 
 # KEYS for every questions:
 Just trying to solve the question by using brute-force answers.
